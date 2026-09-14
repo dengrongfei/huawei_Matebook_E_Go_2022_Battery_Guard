@@ -1,0 +1,2 @@
+# huawei_Matebook_E_Go_2022_Battery_Guard
+平替原有华为管家电池保护，且ARM架构
