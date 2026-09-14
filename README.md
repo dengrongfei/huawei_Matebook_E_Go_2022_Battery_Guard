@@ -1,6 +1,9 @@
 Cursor提取做的，有什么问题去问AI
+
 本程序是 Windows ARM64 原生。
+
 在Windows 11 21H2通过
+
 设备为华为matebook e go 2022 GK-G58设备验证通过，其他e go设备按理来说应该也能用。
 
 电池优化（充电 + 空闲节电）
